@@ -63,4 +63,4 @@ jobs:
           app-name: 'WebSiteDoaa'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63B007D7C93848D797AE545C290B6E0D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8E17576041C422D9BD6089D12C2DD76 }}
